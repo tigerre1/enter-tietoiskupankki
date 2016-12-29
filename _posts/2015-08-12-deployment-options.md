@@ -6,4 +6,3 @@ tags:
   - valokuvaus
 published: true
 ---
-![Text](http://www.awesomescreenshot.com/image/2004132/2ab3a1ee8d9bc576e3ab27eb324dd707)
