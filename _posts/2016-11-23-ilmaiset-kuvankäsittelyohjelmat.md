@@ -6,5 +6,5 @@ tags:
   - valokuvaus
 published: true
 ---
-![Text]({{ site.baseurl }}/_posts/Selection_001.png)
+![Text](https://github.com/tigerre1/jekyll-for-designers/blob/gh-pages/_posts/Selection_001.png)
 jsdkfjsdlf
