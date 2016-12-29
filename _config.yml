@@ -1,9 +1,9 @@
 # Site settings
-title: Jekyll for Web Designers
-description: "Companion blog to the lynda.com course, Jekyll for Web Designers. This site is designed to present Jekyll to web designers in a clear, concise way, and provide a resource and reference for those that are new to Jekyll."
+title: Enterin tietoiskupankki
+description: "Tietokanta, jonka tarkoituksena on helpottaa aineistojen löytämistä Enterin esitelmäkokoelmasta."
 baseurl: "/jekyll-for-designers" 
 url: "http://jameswillweb.github.io/jekyll-for-designers" 
-tagline: A basic guide to Jekyll
+tagline: Opas oikean tiedon äärelle
 
 # Build settings
 markdown: kramdown
