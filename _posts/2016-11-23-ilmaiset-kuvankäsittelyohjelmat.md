@@ -6,5 +6,5 @@ tags:
   - valokuvaus
 published: true
 ---
-![Text](/_posts/Selection_001.png)
+![Text]({{ site.baseurl }}/_posts/Selection_001.png)
 jsdkfjsdlf
