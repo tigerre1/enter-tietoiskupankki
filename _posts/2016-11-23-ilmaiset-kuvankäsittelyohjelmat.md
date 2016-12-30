@@ -6,4 +6,4 @@ tags:
   - valokuvaus
 published: true
 ---
-![Alt]({{site.baseurl}}/images/UK_Ilmaiset_kuvankasittelyohjelmat.png)
+![Esityksen kansikuva]({{site.baseurl}}/images/UK_Ilmaiset_kuvankasittelyohjelmat.png)
