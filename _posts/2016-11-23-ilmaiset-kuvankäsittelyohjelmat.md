@@ -6,5 +6,5 @@ tags:
   - valokuvaus
 published: true
 ---
-![Text]({{ site.baseurl }}/images/)
+![Text]({{ site.baseurl }}/images/jekyll_install.jpg)
 jsdkfjsdlf
