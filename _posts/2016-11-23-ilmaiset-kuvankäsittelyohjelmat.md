@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ilmaiset kuvankäsittelyohjelmat
-date: 2016-11-23
+date: {}
 tags:
   - valokuvaus
 published: true
 ---
-![Alt]({{site.baseurl}}/images/jekyll_install.jpg)
+![Alt]({{site.baseurl}}/images/UK_Ilmaiset_kuvankasittelyohjelmat.png)
