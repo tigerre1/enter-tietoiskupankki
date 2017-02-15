@@ -1,7 +1,7 @@
 # Site settings
 title: Enterin tietoiskupankki
 description: "Tietokanta, jonka tarkoituksena on helpottaa aineistojen löytämistä Enterin esitelmäkokoelmasta."
-baseurl: "/enter-tietoiskupakki" 
+baseurl: "/enter-tietoiskupankki" 
 url: "http://tigerre1.github.io/enter-tietoiskupankki" 
 tagline: Opas oikean tiedon äärelle
 
