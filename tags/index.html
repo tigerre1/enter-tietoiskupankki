@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Kaikki aineistot
-link: http://www.hs.fi
+link: "http://www.hs.fi"
 ---
 
 <main role="main" class="cf">
 <article class="archive">
  <article role="article">
         <header>
-            <h2 id="top">{{}}</h2>
+            <h2 id="top">{{page.link}}</h2>
              <ul class="tag-cloud">
              {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign sortedTags = site_tags | split:',' | sort %}
