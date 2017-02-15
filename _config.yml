@@ -1,8 +1,8 @@
 # Site settings
 title: Enterin tietoiskupankki
 description: "Tietokanta, jonka tarkoituksena on helpottaa aineistojen löytämistä Enterin esitelmäkokoelmasta."
-baseurl: "/jekyll-for-designers" 
-url: "http://tigerre1.github.io/jekyll-for-designers" 
+baseurl: "/enter-tietoiskupakki" 
+url: "http://tigerre1.github.io/enter-tietoiskupankki" 
 tagline: Opas oikean tiedon äärelle
 
 # Build settings
